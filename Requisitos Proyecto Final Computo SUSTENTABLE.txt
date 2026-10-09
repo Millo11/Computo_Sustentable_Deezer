@@ -1,0 +1,11 @@
+PLaylist resumen de las canciones que seleccione
+Titulo album y duracio
+sumatoria de cuanto dura la playlist
+
+Conectarme
+Hacer busquedas
+Hcaer playlist
+Mostrar duracion
+
+Ordenar ascendentemente
+Ordenar por artista
